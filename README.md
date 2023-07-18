@@ -1,27 +1,26 @@
-### Приветствую 👋
+### Hi 👋
 
-**Немного обо мне:**
+**A few details about myself:**
 
-- Область интересов: анализ данных, backend development, data engineering, BI, нейронные сети
-- Основной стек: Python, SQL, PostgreSQL, Metabase, Power BI, Linux и не только 😄
-- Преподаю в [ИАТЭ НИЯУ МИФИ](http://www.iate.obninsk.ru/), [SF Education](https://sf.education/), [Simulative](https://simulative.ru/sql) и некоторых других проектах
+- Area of ​​interest: data analysis, backend development, data engineering, BI, neural networks
+- Main stack: Python, SQL, PostgreSQL, Metabase, Power BI, Linux and more 😄
+- Lecturer in [OINPE NRNU MEPHI](http://www.iate.obninsk.ru/), [SF Education](https://sf.education/), [Simulative](https://simulative.ru/sql) and some other universities
 
-**Вам может быть интересно:**
+**You may be interested:**
 
-- Моя [последняя статья](src/mdpi2.pdf) по обработке временных рядов методами нечеткой логики
-- Моя [последняя статья](src/mdpi1.pdf) по регрессионным производным
-- Моя [последняя статья](src/uspekhi2021.pdf) по сверточным нейронным сетям
-- Моя [последняя публикация](src/sarov2022.pdf) по интерполяции временных рядов
-- [Телеграм канал](https://t.me/it_resume), где я пишу для [IT Resume](https://itresume.ru)
-- Мой [профиль](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%BD-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D1%8F%D0%BD-974755194/) в LinkedIn
+- My [last scientific research](src/mdpi2.pdf) in time series processing with fuzzy logic
+- My [last scientific research](src/mdpi1.pdf) in regression derivatives
+- My [last scientific researc](src/uspekhi2021.pdf) in convolutional neural network
+- My [last scientific researc](src/sarov2022.pdf) in time series interpolation
+- My [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%BD-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D1%8F%D0%BD-974755194/)
 
-**Мои проекты:**
+**My projects:**
 
-- [IT Resume](https://itresume.ru) - платформа для развития IT-специалистов
-- [Simulative](https://simulative.ru) - симуляторы по программированию и аналитике
-- [HR IT Resume](https://hr.itresume.ru) - портал для поиска работы в IT
+- [IT Resume](https://itresume.ru) - ultimate interview preparation platform
+- [Simulative](https://simulative.ru) - training simulators for programming and analytics
+- [HR IT Resume](https://hr.itresume.ru) - portal for job search in IT
 
-**Для связи и сотрудничества:**
+**For communication and cooperation:**
 
 - telegram: @andron233
 - email: a.alexanyan@itresume.ru
